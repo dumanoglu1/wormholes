@@ -1,4 +1,4 @@
-# wormholes
+# wormholes.
 # nano ruesandora.sh yapıp aşağıdaki kodu yapıştırın. Sonrasında bash ruesandora.sh yapıp çalıştırın
 #!/bin/bash
 #check docker cmd
